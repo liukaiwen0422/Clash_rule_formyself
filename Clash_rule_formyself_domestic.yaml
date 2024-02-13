@@ -1,0 +1,10 @@
+# NAME: NetEaseMusic
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-02-03 01:47:10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 9
+# IP-CIDR: 18
+# TOTAL: 28
+payload:
+  - DOMAIN,netease.ugcvideoss.ourdvs.com
