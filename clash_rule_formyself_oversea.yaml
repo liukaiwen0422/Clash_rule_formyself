@@ -3,6 +3,7 @@
 payload:
   - IN-TYPE,INNER
   - DOMAIN-KEYWORD,winget
-  - DOMAIN-SUFFIX,limbopro.xyz
+  - DOMAIN-KEYWORD,limbopro
   - DOMAIN-SUFFIX,CAbleav.tv
-  - DOMAIN-SUFFIX,51cg3.com
+  - DOMAIN-SUFFIX,fans.91
+  - DOMAIN-SUFFIX,pic.zhliua
