@@ -4,7 +4,8 @@ payload:
   - IN-TYPE,INNER
   - DOMAIN-KEYWORD,winget
   - DOMAIN-KEYWORD,limbopro
+  - DOMAIN-KEYWORD,homebrew
   - DOMAIN-SUFFIX,CAbleav.tv
   - DOMAIN-SUFFIX,fans.91
   - DOMAIN,pic.zhliua.cn
-  - DOMAIN,formulae.brew.sh
+  - DOMAIN,dl.devmate.com
