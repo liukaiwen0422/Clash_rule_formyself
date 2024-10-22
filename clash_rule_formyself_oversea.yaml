@@ -9,6 +9,9 @@ payload:
   - DOMAIN-SUFFIX,fans.91
   - DOMAIN-SUFFIX,software.charliemonroe.net
   - DOMAIN-SUFFIX,osx.telegram.org
+  - DOMAIN-SUFFIX,www.bakamh.com
+  - DOMAIN-SUFFIX,www.gufengmh9.com
+  - DOMAIN-SUFFIX,www.baozimh.com
   - DOMAIN,pic.zhliua.cn
   - DOMAIN,formulae.brew.sh
   - DOMAIN,dl.devmate.com
