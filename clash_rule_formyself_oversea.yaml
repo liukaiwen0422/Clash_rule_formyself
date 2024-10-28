@@ -3,15 +3,17 @@
 payload:
   - IN-TYPE,INNER
   - DOMAIN-KEYWORD,winget
-  - DOMAIN-KEYWORD,limbopro
   - DOMAIN-KEYWORD,homebrew
-  - DOMAIN-SUFFIX,CAbleav.tv
+  - DOMAIN-SUFFIX,ddys.info
+  - DOMAIN-SUFFIX,cableav.tv
   - DOMAIN-SUFFIX,fans.91
   - DOMAIN-SUFFIX,software.charliemonroe.net
   - DOMAIN-SUFFIX,osx.telegram.org
-  - DOMAIN-SUFFIX,www.bakamh.com
-  - DOMAIN-SUFFIX,www.gufengmh9.com
-  - DOMAIN-SUFFIX,www.baozimh.com
+  - DOMAIN-SUFFIX,limbopro.com
+  - DOMAIN-SUFFIX,bakamh.com
+  - DOMAIN-SUFFIX,r2.bakamh.xyz
+  - DOMAIN-SUFFIX,gufengmh9.com
+  - DOMAIN-SUFFIX,baozimh.com
   - DOMAIN,pic.zhliua.cn
   - DOMAIN,formulae.brew.sh
   - DOMAIN,dl.devmate.com
