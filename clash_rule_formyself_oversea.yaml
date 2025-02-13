@@ -15,8 +15,9 @@ payload:
   - DOMAIN-SUFFIX,r2.bakamh.xyz
   - DOMAIN-SUFFIX,gufengmh9.com
   - DOMAIN-SUFFIX,baozimh.com
-  - DOMAIN-SUFFIX,www.czmanga.com
-  - DOMAIN-SUFFIX,www.wenziwanka.com
+  - DOMAIN-SUFFIX,czmanga.com
+  - DOMAIN-SUFFIX,wenziwanka.com
+  - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN,pic.zhliua.cn
   - DOMAIN,formulae.brew.sh
   - DOMAIN,dl.devmate.com
