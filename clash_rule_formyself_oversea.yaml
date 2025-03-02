@@ -22,3 +22,11 @@ payload:
   - DOMAIN,formulae.brew.sh
   - DOMAIN,dl.devmate.com
   - DOMAIN,pic.wguyuzk.cn
+  - IP-CIDR,185.199.110.153
+  - IP-CIDR,185.199.109.153
+  - IP-CIDR,185.199.108.153
+  - IP-CIDR,20.205.243.168
+  - IP-CIDR,185.199.111.153
+  - IP-CIDR,3.123.149.45
+  - IP-CIDR,185.199.109.133
+  - IP-CIDR,185.199.110.133
