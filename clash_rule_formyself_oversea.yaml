@@ -22,6 +22,7 @@ payload:
   - DOMAIN,formulae.brew.sh
   - DOMAIN,dl.devmate.com
   - DOMAIN,pic.wguyuzk.cn
+  #github_ip
   - IP-CIDR,185.199.110.153/32
   - IP-CIDR,185.199.109.153/32
   - IP-CIDR,185.199.108.153/32
@@ -30,3 +31,11 @@ payload:
   - IP-CIDR,3.123.149.45/32
   - IP-CIDR,185.199.109.133/32
   - IP-CIDR,185.199.110.133/32
+  #telegrame_ip
+  - IP-CIDR,64.184.131.2/32
+  - IP-CIDR,160.194.128.6/32
+  - IP-CIDR,64.171.110.1/32
+  - IP-CIDR,192.200.144.1/32
+  - IP-CIDR,0.196.211.10/32
+  - IP-CIDR,0.234.150.1/32
+  - IP-CIDR,96.115.132.6/32
