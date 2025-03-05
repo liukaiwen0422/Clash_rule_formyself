@@ -18,10 +18,11 @@ payload:
   - DOMAIN-SUFFIX,czmanga.com
   - DOMAIN-SUFFIX,wenziwanka.com
   - DOMAIN-SUFFIX,bulianglin.com
-  - DOMAIN,pic.zhliua.cn
-  - DOMAIN,formulae.brew.sh
-  - DOMAIN,dl.devmate.com
-  - DOMAIN,pic.wguyuzk.cn
+  - DOMAIN-SUFFIX,pic.zhliua.cn
+  - DOMAIN-SUFFIX,formulae.brew.sh
+  - DOMAIN-SUFFIX,dl.devmate.com
+  - DOMAIN-SUFFIX,pic.wguyuzk.cn
+  - DOMAIN-SUFFIX,dl.pstmn.io
   #github_ip
   - IP-CIDR,185.199.110.153/32
   - IP-CIDR,185.199.109.153/32
