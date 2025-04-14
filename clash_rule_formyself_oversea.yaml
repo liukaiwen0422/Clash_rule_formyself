@@ -22,7 +22,7 @@ payload:
   - DOMAIN-KEYWORD,bakamh
   - DOMAIN-KEYWORD,gufengmh
   - DOMAIN-KEYWORD,baozimh
-  - DOMAIN-SUFFIX,twmanga.com
+  - DOMAIN-KEYWORD,manga
   #github_ip
   - IP-CIDR,185.199.110.153/32
   - IP-CIDR,185.199.109.153/32
