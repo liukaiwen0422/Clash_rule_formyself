@@ -11,11 +11,6 @@ payload:
   - DOMAIN-SUFFIX,software.charliemonroe.net
   - DOMAIN-SUFFIX,osx.telegram.org
   - DOMAIN-SUFFIX,limbopro.com
-  - DOMAIN-SUFFIX,bakamh.com
-  - DOMAIN-SUFFIX,r2.bakamh.xyz
-  - DOMAIN-SUFFIX,gufengmh9.com
-  - DOMAIN-SUFFIX,baozimh.com
-  - DOMAIN-SUFFIX,czmanga.com
   - DOMAIN-SUFFIX,wenziwanka.com
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,pic.zhliua.cn
@@ -23,6 +18,11 @@ payload:
   - DOMAIN-SUFFIX,dl.devmate.com
   - DOMAIN-SUFFIX,pic.wguyuzk.cn
   - DOMAIN-SUFFIX,dl.pstmn.io
+  #漫画ip
+  - DOMAIN-KEYWORD,bakamh
+  - DOMAIN-KEYWORD,gufengmh
+  - DOMAIN-KEYWORD,baozimh
+  - DOMAIN-SUFFIX,twmanga.com
   #github_ip
   - IP-CIDR,185.199.110.153/32
   - IP-CIDR,185.199.109.153/32
