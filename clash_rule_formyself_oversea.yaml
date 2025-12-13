@@ -20,6 +20,8 @@ payload:
   - DOMAIN,dl.devmate.com
   - DOMAIN,pic.wguyuzk.cn
   - DOMAIN,dl.pstmn.io
+  - IP-CIDR,109.61.83.246
+  - IP-CIDR,208.88.224.211
   #漫画ip
   - DOMAIN-KEYWORD,bakamh
   - DOMAIN-KEYWORD,gufengmh
