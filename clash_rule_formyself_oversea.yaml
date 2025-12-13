@@ -8,16 +8,18 @@ payload:
   - DOMAIN-SUFFIX,missav.ai
   - DOMAIN-SUFFIX,missav.ws
   - DOMAIN-SUFFIX,fans.91
-  - DOMAIN-SUFFIX,software.charliemonroe.net
-  - DOMAIN-SUFFIX,osx.telegram.org
+  - DOMAIN,software.charliemonroe.net
+  - DOMAIN,cachefly.alfredapp.com
+  - DOMAIN,download.typora.io
+  - DOMAIN,osx.telegram.org
   - DOMAIN-SUFFIX,limbopro.com
   - DOMAIN-SUFFIX,wenziwanka.com
   - DOMAIN-SUFFIX,bulianglin.com
-  - DOMAIN-SUFFIX,pic.zhliua.cn
-  - DOMAIN-SUFFIX,formulae.brew.sh
-  - DOMAIN-SUFFIX,dl.devmate.com
-  - DOMAIN-SUFFIX,pic.wguyuzk.cn
-  - DOMAIN-SUFFIX,dl.pstmn.io
+  - DOMAIN,pic.zhliua.cn
+  - DOMAIN,formulae.brew.sh
+  - DOMAIN,dl.devmate.com
+  - DOMAIN,pic.wguyuzk.cn
+  - DOMAIN,dl.pstmn.io
   #漫画ip
   - DOMAIN-KEYWORD,bakamh
   - DOMAIN-KEYWORD,gufengmh
