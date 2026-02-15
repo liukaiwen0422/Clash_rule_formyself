@@ -4,7 +4,6 @@ payload:
   - IN-TYPE,INNER
   - DOMAIN-KEYWORD,winget
   - DOMAIN-KEYWORD,homebrew
-  - DOMAIN-SUFFIX,ddys.info
   - DOMAIN-SUFFIX,missav.ai
   - DOMAIN-SUFFIX,missav.ws
   - DOMAIN-SUFFIX,fans.91
@@ -20,6 +19,8 @@ payload:
   - DOMAIN,dl.devmate.com
   - DOMAIN,pic.wguyuzk.cn
   - DOMAIN,dl.pstmn.io
+  - DOMAIN-SUFFIX,rsshub.app
+  - DOMAIN,greasyfork.org
   - IP-CIDR,109.61.83.246
   - IP-CIDR,208.88.224.211
   #漫画ip
